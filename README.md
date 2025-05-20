@@ -1,1 +1,1 @@
-# calculadora-python
+executar - python calculadora.py
